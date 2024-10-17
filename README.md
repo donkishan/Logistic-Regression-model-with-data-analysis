@@ -1,1 +1,2 @@
 # Logistic-Regression-model-with-data-analysis
+This project, developed entirely by Kishan H S, applies Logistic Regression to predict whether a client will subscribe to a term deposit (yes/no) based on data from direct marketing campaigns conducted by a Portuguese banking institution. The primary goal of this project is to build a binary classification model that helps the bank optimize its marketing efforts by targeting clients who are more likely to subscribe.
